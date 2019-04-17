@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^24.7.1"
+  },
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "web testing challenge",
+  "main": "index.js",
+  "repository": "https://github.com/sampler36/webtesting-i-challenge.git",
+  "author": "Talent Antonio <antonio.talenty@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  }
+}
